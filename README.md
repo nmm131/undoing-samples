@@ -1,4 +1,4 @@
-# UNDOING ON ONLINE MARKETPLACES:
+# INSTALLATION OF UNDOING THROUGH ONLINE MARKETPLACES:
 https://store.steampowered.com/app/664890/Undoing/
 
 https://minibeast-llc.itch.io/undoing
