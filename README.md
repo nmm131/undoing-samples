@@ -53,6 +53,7 @@ The goal is to survive. Manage your character's unique strengths, conquer your o
 
 ## 18 UNDOING OFFICIAL DEDICATED SERVERS:
 
+```
 Asia-East-1 (Taiwan)
 Asia-East-2 (Hong Kong)
 Asia-Northeast-1 (Tokyo)
@@ -71,6 +72,7 @@ US-East-1 (South Carolina)
 US-East-4 (Northern Virginia)
 US-West-1 (Oregon)
 US-West-2 (Los Angeles)
+```
 
 We encourage you to post your comments, ideas, feature requests, bug reports and feedback.
 We are active on social media (as UndoingPC) such as Facebook, YouTube, Instagram, Twitter, GooglePlus, Reddit, IndieDB and Discord and will inspect and respond to posts you make. If the same ideas exist more than once, then we can shift priorities to rapidly make it a reality.
