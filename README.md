@@ -9,10 +9,10 @@ https://www.gamersgate.com/DD-UNDOING/undoing
 
 https://www.indiegala.com/store/game/undoing/664890/
 
-# ABOUT THIS GAME:
+## ABOUT THIS GAME:
 The goal is to survive. Manage your character's unique strengths, conquer your opponents while your health, stamina, hunger and thirst diminish. Engage in close quarters combat with melee, unique special, quick-time event grapples and weaponized attacks. Collect pickups to replenish your strengths. Do whatever it takes to outlast your opponents.
 
-# KEY FEATURES:
+## KEY FEATURES:
 
 * True first person and third person viewmodes.
 * Supports Gamepad for everything.
@@ -43,7 +43,7 @@ The goal is to survive. Manage your character's unique strengths, conquer your o
 * Submit bugs and feedback from in-game.
 * Join the community.
 
-# 18 UNDOING OFFICIAL DEDICATED SERVERS:
+## 18 UNDOING OFFICIAL DEDICATED SERVERS:
 
 Asia-East-1 (Taiwan)
 Asia-East-2 (Hong Kong)
