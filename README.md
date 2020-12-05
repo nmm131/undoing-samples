@@ -1,4 +1,7 @@
-# INSTALLATION OF UNDOING THROUGH ONLINE MARKETPLACES:
+# UNDOING
+Engage in an epic struggle for survival, humans versus monsters. Battle as a team or fend for yourself in Team Deathmatch, Free-for-all and Survival Gamemodes, with upwards of 64 players. Do whatever it takes to survive!
+
+## INSTALLATION OF UNDOING THROUGH ONLINE MARKETPLACES:
 https://store.steampowered.com/app/664890/Undoing/
 
 https://minibeast-llc.itch.io/undoing
