@@ -1,0 +1,23 @@
+Setting breakpad minidump AppID = 664890
+[2020.11.02-21.43.01:442][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.11.02-21.43.01:442][  0]LogMemory: Platform Memory Stats for WindowsServer
+[2020.11.02-21.43.01:443][  0]LogMemory: Process Physical Memory: 75.62 MB used, 75.62 MB peak
+[2020.11.02-21.43.01:443][  0]LogMemory: Process Virtual Memory: 80.73 MB used, 80.73 MB peak
+[2020.11.02-21.43.01:443][  0]LogMemory: Physical Memory: 6724.52 MB used,  9543.08 MB free, 16267.60 MB total
+[2020.11.02-21.43.01:443][  0]LogMemory: Virtual Memory: 4535.26 MB used,  134213192.00 MB free, 134217728.00 MB total
+[2020.11.02-21.43.02:611][  0]LogTemp: Warning: Initializing Anti-Cheat.
+[2020.11.02-21.43.02:625][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.11.02-21.43.02:710][  0]LogTemp: Warning: *****************************************
+[2020.11.02-21.43.02:711][  0]LogTemp: ** Undoing Dedicated Server v01  **
+[2020.11.02-21.43.02:711][  0]LogTemp: Undoing Dedicated Server starting up.
+[2020.11.02-21.43.02:711][  0]LogTemp: Warning: *****************************************
+[2020.11.02-21.43.02:712][  0]LogTemp: Parsing Commandline
+[2020.11.02-21.43.02:712][  0]LogTemp: Max Players set to : 32
+[2020.11.02-21.43.02:712][  0]LogTemp: Gametype set to : 0
+[2020.11.02-21.43.02:712][  0]LogTemp: Servername set to: Undoing-Dedicated Server US - 32 Slots
+[2020.11.02-21.43.03:129][  0]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.11.02-21.43.03:130][  0]LogTemp: Display: ParseSettings for IpNetDriver_0
+[2020.11.02-21.43.03:130][  0]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.11.02-21.43.04:103][  0]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.11.02-21.43.04:106][  0]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.11.02-21.43.04:171][  0]LogBlueprintUserMessages: [BP_GameInstance_C_0] Initialiazing Game Server On Steam
