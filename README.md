@@ -1,7 +1,11 @@
 # UNDOING
 Engage in an epic struggle for survival, humans versus monsters. Battle as a team or fend for yourself in Team Deathmatch, Free-for-all and Survival Gamemodes, with upwards of 64 players. Do whatever it takes to survive!
 
-## INSTALLATION OF UNDOING THROUGH ONLINE MARKETPLACES:
+## INSTALLATION:
+
+Requires Steam*
+Available on these marketplaces:
+```
 https://store.steampowered.com/app/664890/Undoing/
 
 https://minibeast-llc.itch.io/undoing
@@ -11,6 +15,7 @@ https://www.greenmangaming.com/games/undoing-pc/
 https://www.gamersgate.com/DD-UNDOING/undoing
 
 https://www.indiegala.com/store/game/undoing/664890/
+```
 
 ## ABOUT THIS GAME:
 The goal is to survive. Manage your character's unique strengths, conquer your opponents while your health, stamina, hunger and thirst diminish. Engage in close quarters combat with melee, unique special, quick-time event grapples and weaponized attacks. Collect pickups to replenish your strengths. Do whatever it takes to outlast your opponents.
