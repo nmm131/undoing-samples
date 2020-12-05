@@ -1,4 +1,4 @@
-# Undoing on Steam:
+# UNDOING ON STEAM:
 https://store.steampowered.com/app/664890/Undoing/
 
 ```
@@ -9,37 +9,40 @@ Undoing can also be found on other online marketplaces.
 The goal is to survive. Manage your character's unique strengths, conquer your opponents while your health, stamina, hunger and thirst diminish. Engage in close quarters combat with melee, unique special, quick-time event grapples and weaponized attacks. Collect pickups to replenish your strengths. Do whatever it takes to outlast your opponents.
 
 # KEY FEATURES:
+
 ```
-True first person and third person viewmodes.
-Supports Gamepad for everything.
-Customize your character/HUD/controls/game settings.
-Engage with other players (chat and voice chat).
+* True first person and third person viewmodes.
+* Supports Gamepad for everything.
+* Customize your character/HUD/controls/game settings.
+* Engage with other players (chat and voice chat).
 
-Join any of the always-up 18 Official Dedicated Servers, see list below.
-Host your own dedicated server with the Undoing Dedicated Server Tool.
-
-
-Play on the team of your choosing with your friends (monsters or humans).
-Team Deathmatch, Free-For-All and Survival gamemodes.
-Get kills, assists and points.
-Upwards of 64 players on a single server.
-Spectate games.
-
-Quick-Time Event Grapple your enemies.
-Close quarters melee combat.
-Unique special attacks.
-Assault rifle or shotgun weapon fire.
-Bullets ricochet off surfaces.
-Explode your enemies with grenades.
-Collect pickups to replenish your strengths (Health, Stamina, Hunger and Thirst).
-Use the environment to your advantage.
+* Join any of the always-up 18 Official Dedicated Servers, see list below.
+* Host your own dedicated server with the Undoing Dedicated Server Tool.
 
 
-Create and share your in-game experiences.
-Submit bugs and feedback from in-game.
-Join the community.
+* Play on the team of your choosing with your friends (monsters or humans).
+* Team Deathmatch, Free-For-All and Survival gamemodes.
+* Get kills, assists and points.
+* Upwards of 64 players on a single server.
+* Spectate games.
+
+* Quick-Time Event Grapple your enemies.
+* Close quarters melee combat.
+* Unique special attacks.
+* Assault rifle or shotgun weapon fire.
+* Bullets ricochet off surfaces.
+* Explode your enemies with grenades.
+* Collect pickups to replenish your strengths (Health, Stamina, Hunger and Thirst).
+* Use the environment to your advantage.
+
+
+* Create and share your in-game experiences.
+* Submit bugs and feedback from in-game.
+* Join the community.
 ```
+
 # 18 UNDOING OFFICIAL DEDICATED SERVERS:
+
 ```
 Asia-East-1 (Taiwan)
 Asia-East-2 (Hong Kong)
